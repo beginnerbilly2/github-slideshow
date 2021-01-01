@@ -2,5 +2,5 @@
 layout:slide
 title: "Welcome to our second slide"
 ----
-you text
+i have added my text in this pull request
 use the left arrow to go back.
